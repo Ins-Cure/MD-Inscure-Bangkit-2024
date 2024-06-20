@@ -45,16 +45,16 @@ To use the application please download the .apk file at the following [link](htt
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Primary Light | ![#7469B6](https://via.placeholder.com/10/7469B6?text=+) #13C193 |
-| Primary Dark | ![#AD88C6](https://via.placeholder.com/10/AD88C6?text=+) #154D3E |
-| Secondary Light | ![#BC7FCD](https://via.placeholder.com/10/BC7FCD?text=+) #B56031 |
-| Secondary Dark | ![#874CCC](https://via.placeholder.com/10/874CCC?text=+) #4B2D1C |
-| Pink | ![#E1AFD1](https://via.placeholder.com/10/E1AFD1?text=+) #B56031 |
-| Pink Secondary | ![#FFCDEA](https://via.placeholder.com/10/FFCDEA?text=+) #4B2D1C |
+| Primary Light | ![#7469B6](https://via.placeholder.com/10/7469B6?text=+) #7469B6 |
+| Primary Dark | ![#AD88C6](https://via.placeholder.com/10/AD88C6?text=+) #AD88C6 |
+| Secondary Light | ![#BC7FCD](https://via.placeholder.com/10/BC7FCD?text=+) #BC7FCD |
+| Secondary Dark | ![#874CCC](https://via.placeholder.com/10/874CCC?text=+) #874CCC |
+| Pink | ![#E1AFD1](https://via.placeholder.com/10/E1AFD1?text=+) #E1AFD1 |
+| Pink Secondary | ![#FFCDEA](https://via.placeholder.com/10/FFCDEA?text=+) #FFCDEA |
 | White | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
-| White Transparent | ![#2AFFFFFF](https://via.placeholder.com/10/2AFFFFFF?text=+) #FFFFFF |
+| White Transparent | ![#2AFFFFFF](https://via.placeholder.com/10/2AFFFFFF?text=+) #2AFFFFFF |
 | Black | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 |
-| Light Red | ![#E57373](https://via.placeholder.com/10/E57373?text=+) #B00020 |
+| Light Red | ![#E57373](https://via.placeholder.com/10/E57373?text=+) #E57373 |
 
   
 
